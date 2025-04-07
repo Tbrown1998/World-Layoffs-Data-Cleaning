@@ -37,7 +37,7 @@ This project focuses on analyzing and cleaning a dataset related to layoffs in v
 
 ```mermaid
 graph TD
-    A[Raw Data] --> B[SQL Cleaning]
+    A[Raw Data] --> B[SQL Database]
     B --> C[SQL Cleaning]
     C --> D[Analytical Queries]
     D --> E[Key Insights & Findings]
